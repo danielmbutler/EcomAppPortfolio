@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resources>
+
+    <color name="colorPrimary">#FDF2D1</color>
+
+    <color name="colorPrimaryDark">#878787</color>
+
+    <color name="colorAccent">#FDF2D1</color>
+
+    <!--TODO Step 2: For the best practice add the color values in the color.xml file located in the res -> values folder. -->
+
+
+    <!--START-->
+
+    <color name="colorThemePink">#FDF2D1</color>
+    <color name="colorThemeOrange">#F4442D</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimaryText">#222934</color>
+    <color name="colorSecondaryText">#989898</color>
+    <color name="colorLightGrey">#F1F1F1</color>
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
+    <color name="colorBorder">#E8E6E6</color>
+    <color name="colorDarkGrey">#878787</color>
+
+    <color name="colorImageViewBackground">#E1E1E1</color>
+
+    <color name="colorOffWhite">#222934</color>
+    <color name="item_value_text_color">#545353</color>
+
+    <color name="dashboard_item_details_bg">#F3F3F3</color>
+
+
+    <color name="colorOrderStatusInProcess">#FF9800</color>
+    <color name="colorOrderStatusDelivered">#8BC34A</color>
+
+
+    <!--END-->
+
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+
+    <style parent="Theme.MaterialComponents.Light.DarkActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+
+</style>
+
+
+    <style name="AppTheme.NoActionBar">
+
+    <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimaryText</item>
+
+    <item name="windowNoTitle">true</item>
+
+</style>
+
+
+
+    <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay"/>
+
+    <style parent="ThemeOverlay.AppCompat.Light" name="AppTheme.PopupOverlay"/>
+
+
+</resources>
